@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintifyManager.SDK", "PrintifyManager.SDK\PrintifyManager.SDK.csproj", "{022E300A-A3FB-499B-B813-A3F154E9033B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintifyManager.WebAPI", "PrintifyManager.WebAPI\PrintifyManager.WebAPI.csproj", "{A4485625-1D66-4B98-A51F-7722FED96568}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "printifymanagerweb", "PrintifyManagerWeb\printifymanagerweb.esproj", "{731FA063-7459-4AEC-9AE8-894EF07F2730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022E300A-A3FB-499B-B813-A3F154E9033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022E300A-A3FB-499B-B813-A3F154E9033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022E300A-A3FB-499B-B813-A3F154E9033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022E300A-A3FB-499B-B813-A3F154E9033B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4485625-1D66-4B98-A51F-7722FED96568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4485625-1D66-4B98-A51F-7722FED96568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4485625-1D66-4B98-A51F-7722FED96568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4485625-1D66-4B98-A51F-7722FED96568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731FA063-7459-4AEC-9AE8-894EF07F2730}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E7F3CD-0FA5-40D5-85A1-49B1DBF5DC7E}
+	EndGlobalSection
+EndGlobal
